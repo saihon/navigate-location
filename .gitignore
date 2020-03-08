@@ -1,0 +1,6 @@
+
+*.xpi
+*.crx
+*.pem
+
+images/
